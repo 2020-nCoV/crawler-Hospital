@@ -33,10 +33,10 @@ python main.py ncov
 经试验，每次请求时携带的认证信息仅有 1 天左右的有效期，若请求失败，请在微信中打开“国务院”小程序，自行抓包替换下方 header 中的相关字段。
 
 ```json
-{'x-tif-did': 'ZKVdmWTv3L',
-'x-tif-openid': 'ojyj-45vD5swZ9AxQDcBpPqKpat4',
-'x-tif-sid': '3e4632d4856f1ec177d54062e2a939d0b2',
-'x-yss-city-code': '4400'}
+'x-tif-did':,
+'x-tif-openid':,
+'x-tif-sid':,
+'x-yss-city-code':
 ```
 
 
