@@ -45,6 +45,7 @@ python main.py ncov
 
 如有问题请发送邮件至 ultraxia@foxmail.com 联系作者。
 
-
+# 免责声明
+本篇文章仅用于学习交流，并不针对任何网站、软件、个人。
 
 ## 武汉加油！
